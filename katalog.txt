@@ -1,0 +1,27 @@
+kitap adı   : kırmızı karanfil
+yazar adı   : gülten akın
+türü        : şiir
+yayın yılı  : 1971
+ısbn        : 1234
+raf numarası: s94
+
+kitap adı   : sevda sözleri
+yazar adı   : cemal süreya
+türü        : şiir
+yayın yılı  : 1984
+ısbn        : 6262
+raf numarası: s62
+
+kitap adı   : hasretinden prangalar eskittim
+yazar adı   : ahmed arif
+türü        : şiir
+yayın yılı  : 1968
+ısbn        : 1221
+raf numarası: s2
+
+kitap adı   : acıyı bal eyledik
+yazar adı   : hasan hüseyin korkmazgil
+türü        : şiir
+yayın yılı  : 1973
+ısbn        : 1235
+raf numarası: s12
